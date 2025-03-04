@@ -1,4 +1,4 @@
-package com.mycompany.planteki
+package com.codecatalyst.planteki
 
 import io.flutter.embedding.android.FlutterActivity
 
